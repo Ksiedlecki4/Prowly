@@ -1,0 +1,23 @@
+Test Case 1: Search for "prowly" and Filter by "Everything"
+
+    1.Open Google.com in a web browser.
+    2.Enter "prowly" in the search bar.
+    3.Click on the "Search" button.
+    4.On the search results page, select the "Everything" filter option from the content category filters.
+    5.Verify that the search results display a mixture of web pages, images, videos, news articles, and other content related to "prowly."
+
+Test Case 2: Search for "prowly" and Filter by "Video"
+
+    1.Open Google.com in a web browser.
+    2.Enter "prowly" in the search bar.
+    3.Click on the "Search" button.
+    4.On the search results page, select the "Video" filter option from the content category filters.
+    5.Verify that the search results show video content related to "prowly," such as YouTube videos or video clips.
+
+Test Case 3: Search for "prowly" and Filter by "News"
+
+    1.Open Google.com in a web browser.
+    2.Enter "prowly" in the search bar.
+    3.Click on the "Search" button.
+    4.On the search results page, select the "News" filter option from the content category filters.
+    5.Verify that the search results display news articles, headlines, and stories related to "prowly" from reputable news sources.
